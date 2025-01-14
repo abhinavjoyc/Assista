@@ -16,19 +16,13 @@ Before you begin, ensure you have the following installed on your system:
 Follow these steps to set up and run the chatbot:
 
 1. **Clone the Repository**  
-   Download the project files from the Git repository:  
-   ```bash  
-   git clone <repository-url>  
-   ```  
+   Download the project files from the Git repository:   
 
 2. **Extract the Files**  
    If you downloaded a ZIP file, extract its contents to your desired location.  
 
 3. **Navigate to the Project Directory**  
-   Open your terminal or command prompt and navigate to the extracted project directory:  
-   ```bash  
-   cd <project-directory>  
-   ```  
+   Open your terminal or command prompt and navigate to the extracted project directory:    
 
 4. **Create a Virtual Environment**  
    Set up a virtual environment to isolate project dependencies:  
